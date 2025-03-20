@@ -49,7 +49,7 @@ export default function Videodemo() {
         </h2>
         <p className="text-black text-base md:text-lg">
         <TextAnimate animation="blurInUp" by="character" once>
-        Tình yêu không làm cho thế giới quay tròn. Tình yêu là những gì làm cho chuyến đi đáng giá.
+       Tình yêu là những gì làm cho chuyến đi đáng giá.
     </TextAnimate>
          
         </p>
