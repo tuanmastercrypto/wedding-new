@@ -77,7 +77,7 @@ export default function Gallery() {
           </div>
         </div>
 
-        <div className="max-w-screen-xl mx-auto px-4 py-10 gallery">
+        <div className="max-w-screen-xl mx-auto gallery">
           <LightGallery
             plugins={[lgZoom, lgVideo]}
             mode="lg-fade"
